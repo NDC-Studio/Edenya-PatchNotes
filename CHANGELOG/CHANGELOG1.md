@@ -24,7 +24,7 @@
   - ✅ Resto Noodles 
   - ✅ Pearl
   - ✅ BurgerShot
-  - ✅ Coul Bean ( CupCake & BubbleTea ) 
+  - ✅ Cool Bean ( CupCake & BubbleTea ) 
   - ✅ Cluckin Bell - FastFood Poulet 
   - ✅ FastFood Hot Dog ( Rockwood - sur demande )
   - ✅ Glacier ( Rockwood - sur demande )
@@ -41,7 +41,7 @@
   - ✅ Los Santos Pulice Départment 
   - ✅ Banque 
   - ✅ Garde Côte
-  - ✅ Ecule ( Schoul RP )
+  - ✅ Ecole ( School RP )
 #### Mécanique
 - Si tu aime réparer, créer, briculer et dépanner!
   - ✅ Auto Exotic 
