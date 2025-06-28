@@ -43,7 +43,7 @@
   - ✅ Garde Côte
   - ✅ Ecole ( School RP )
 #### Mécanique
-- Si tu aime réparer, créer, bricoler et dépanner!
+- Si tu aimes réparer, créer, bricoler et dépanner!
   - ✅ Auto Exotic 
   - 📋 LS Custom
 #### Concessionnaires et Compagnies de transport
