@@ -1,5 +1,5 @@
 # 📢 PatchNote Edenya RP 📢
-#### Version `1.0.0` le 01/07/2025
+#### Version `1.0.0` le 28/06/2025 à 23h00
 
 ## 🧠 Authors
 ### 🛠️ Développement : NDC-Studio
