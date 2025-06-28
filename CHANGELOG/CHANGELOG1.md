@@ -38,7 +38,7 @@
 - Vous avez l'âme d'etre fonctionnaire, forces de l'orde ou personnel soignant ? rendez vous dans les établissements du gouvernement!
   - 📋 Ocean Hospital - EMS 
   - 📋 Dynasty 8 - Agent Immo
-  - ✅ Los Santos Pulice Départment 
+  - ✅ Los Santos Police Départment 
   - ✅ Banque 
   - ✅ Garde Côte
   - ✅ Ecole ( School RP )
