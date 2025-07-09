@@ -10,6 +10,7 @@
 > - [Added] : nouveautés  
 > - [Changed] : modifs de comportement  
 > - [Fixed] : corrections  
+> - [Updated] : mise à jour  
 > - [Removed] : suppressions  
 > - [Security] : sécurité  
 > - [Deprecated] : fonctionnalités en fin de vie
