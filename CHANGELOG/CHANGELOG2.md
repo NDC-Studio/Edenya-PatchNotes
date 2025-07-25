@@ -29,6 +29,7 @@
 - bcs_housing + [fixed] voir plus haut
 - ox_lib, ox_inventory, oxmysql *(ressources de base de server)*
 - xmmx_letcookplus *(Pour cuisiner)*
+- Artefacts FiveM Version
 
 ### ❌ [Removed]
 - electric_skateboard
