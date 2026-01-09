@@ -1,10 +1,16 @@
 # 📢 PatchNote Edenya RP SemiWL📢
 #### Version `1.0.4` le 19/01/2026 à XX:XX.
 
+     
+---
+
 ## 🧠 Autheurs:
 ### 🛠️ Développement : WeGaSo Studio -- *(Anciennement NDC Studio)*
 ### 🎨 Design : Lx Design
 
+
+     
+---
 
 ### ✨ [Security-Added]
 - Changement du systeme WL en semiWL
