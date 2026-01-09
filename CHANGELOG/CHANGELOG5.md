@@ -4,7 +4,7 @@
      
 ---
 
-## 🧠 Autheurs:
+## 🧠 Auteurs:
 ### 🛠️ Développement : WeGaSo Studio -- *(Anciennement NDC Studio)*
 ### 🎨 Design : Lx Design
 
