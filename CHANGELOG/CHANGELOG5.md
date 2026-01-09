@@ -14,7 +14,7 @@
 
 ### ✨ [Security-Added]
 - Changement du systeme WL en semiWL
-  - Changement de l'accès serveur, de: `whitelist approved` à: `approuved roles`
+  - Changement de l'accès serveur, de: `whitelist approved` à: `approved roles`
      
 ---
 
@@ -35,7 +35,7 @@
 
 ### ⬆️ [Updated]
 - GameBuild 3323 - septembre 2024 - Bottom Dollar Bountie Fixed Version
-- cd_garage *(Màj du script et configuration plus ciblée en correlation avec l'état actuel du server)*
+- cd_garage *(Màj du script et configuration plus ciblée en correlation avec l'état actuel du server + persistance des véhicules)*
 - Artifacts FiveM *(Màj de la version fiveM Verifiez vos mise à jour gtaV edition normale)*
 - Luxury Auto Mapping *(Màj)*
      
