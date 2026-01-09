@@ -10,7 +10,7 @@
 
 
 ### ✨ [Added]
-
+- Patoche Wipeout *(Total wipeout script)*
 
 ### 🩹 [Fixed]
 
@@ -26,6 +26,10 @@
 - RTX Gym *(màj script)*
 - RTX Notify *(màj script)*
 - RTX Tv *(màj script - màj visuelle du menu UI/UX)*
+- RTX Water Activities *(màj script)*
+- RTX Theme Park *(màj script)*
+- cd_garage *(màj script)*
+- 
 
 ### ❌ [Removed]
 
