@@ -21,7 +21,7 @@
   - En cliquant sur le nom du fichier vous pourrez le consulter directement via github.
 
 #### Last Release
--  [→ Cliquez ici ←](https://github.com/NDC-Studio/Edenya-PatchNotes/blob/main/CHANGELOG/CHANGELOG5.md)
+-  [→ Cliquez ici ←](https://github.com/NDC-Studio/Edenya-PatchNotes/blob/main/CHANGELOG/CHANGELOG6.md)
 
 #### Contact
 - ndc.dev.code@gmail.com
