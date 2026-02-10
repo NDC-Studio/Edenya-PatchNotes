@@ -18,7 +18,10 @@
 #### Comment trouver les PatchNotes?
 - Les nouveaux PatchNotes seront toujours informés sur le discord.
 - Vous pouvez retrouver toutes les *PatchNotes* dans le dossier ``'./CHANGELOG/*.md'``.
-  - En cliquant sur le nom du fichier vous pourrez le consulter directement.
+
+<img src="CHANGELOG/public/changelog_folder.png" height="30px" style="position:relative; left:60px">
+
+- En cliquant sur le nom du fichier vous pourrez le consulter directement.
 
 #### Dernier PatchNote
 -  [→ Clique ici ←](https://github.com/NDC-Studio/Edenya-PatchNotes/blob/main/CHANGELOG/CHANGELOG6.md)
